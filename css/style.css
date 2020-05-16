@@ -1,0 +1,25 @@
+body {
+	background-color: powderblue;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 3px;
+}
+table {
+	background-color: lightgrey;
+}
+h1 {
+   color: #5c2a9d;
+}
+h3 {
+   color: #5c2a9d; 
+}
+img {
+   height: 200px;
+   border-radius: 25% 10%;   
+}
+a:hover{
+  color: red;
+}
